@@ -122,8 +122,8 @@ initial_activities = {
     },
     "Manga Maniacs": {
         "description": "Unleash your inner hero as we dive into thrilling quests, fierce rivalries, and unforgettable characters from Japanese Manga.",
-        "schedule": "Tuesdays at 7:00 PM",
-        "max_participants": 15,
+        "schedule": "Tuesdays at 5:00 PM",
+        "max_participants": 25,
         "participants": []
     },
     "Debate Team": {
